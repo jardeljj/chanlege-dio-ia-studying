@@ -10,7 +10,6 @@ Como não tive acesso ao Azure IA, utilizei o **Gemini** para gerar as imagens c
 
 ![Imagem 3](imagens/imagem3.png)
 
-(Adicione mais imagens conforme necessário)
 
 ## Observações
 
